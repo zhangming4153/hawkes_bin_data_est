@@ -10,20 +10,13 @@
    git clone https://github.com/your-username/hawkes-repro.git
 2. 进入目录并安装依赖（推荐使用 venv 或 conda）：
    pip install -r requirements.txt
-3. 运行快速仿真：
-   python src/simulate.py --config experiments/configs/config_quick.yaml
-   或打开 notebook：notebooks/quick_demo.ipynb
-
-## 完整复现
-- 完整实验的运行说明见 `experiments/README.md`（包含硬件要求、预计耗时和结果保存路径）。
-- 保证随机种子一致：所有实验脚本均接受 `--seed` 参数。
 
 ## 目录结构
 - notebooks/: 交互 notebook
 - results/: 生成的图表与表格
 
 ## 依赖与环境
-见 `requirements.txt` 或 `environment.yml`。推荐 Python 3.9+。
+见 `requirements.txt`。推荐 Python 3.9+。
 
 ## 许可与引用
 本代码采用 MIT 许可证（见 LICENSE）。如在论文或工作中使用，请引用原论文：
@@ -33,5 +26,5 @@
 > Zhang, M. (2025). hawkes-repro. https://github.com/your-username/hawkes-repro
 
 ## 联系
-作者：章明 — zhangming[at]example.com  
-GitHub: https://github.com/your-username
+作者：章明 — mingjonnier[at]gmail.com  
+GitHub: https://github.com/mingzhang4153.github.io
