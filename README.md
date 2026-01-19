@@ -47,5 +47,5 @@ hawkes-repro/
 > Zhang, M. (2025). hawkes-repro. https://github.com/your-username/hawkes-repro
 
 ## 联系
-作者：章明 — mingjonnier[at]gmail.com  
+作者：章明 — mingjonnier[at]ruc.edu.cn  
 GitHub: https://github.com/mingzhang4153.github.io
