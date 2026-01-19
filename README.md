@@ -16,12 +16,12 @@
 hawkes-repro/
 │
 │
-├── results/               # 生成的图表和结果文件
+├── graphs/               # 生成的图表和结果文件
 │   ├── figure1.png        # 结果图表1
 │   ├── figure2.png        # 结果图表2
 │  
 │
-├── hawkes/                # 代码模块文件夹，包含算法实现
+├── codes/                # 代码模块文件夹，包含算法实现
 │   ├── MLE和Whittle简易演示.ipynb  # 简单演示最大似然与Whittle估计的Jupyter笔记本
 │   ├── data_gener.py      # 数据生成模块，负责生成模拟数据
 │   ├── mle_exp_plots.py   # MLE Exponential 估计图表
